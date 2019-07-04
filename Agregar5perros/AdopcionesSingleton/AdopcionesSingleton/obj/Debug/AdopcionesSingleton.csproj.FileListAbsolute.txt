@@ -1,0 +1,13 @@
+c:\users\alumno\documents\visual studio 2012\Projects\AdopcionesSingleton\AdopcionesSingleton\bin\Debug\AdopcionesSingleton.exe.config
+c:\users\alumno\documents\visual studio 2012\Projects\AdopcionesSingleton\AdopcionesSingleton\bin\Debug\AdopcionesSingleton.exe
+c:\users\alumno\documents\visual studio 2012\Projects\AdopcionesSingleton\AdopcionesSingleton\bin\Debug\AdopcionesSingleton.pdb
+c:\users\alumno\documents\visual studio 2012\Projects\AdopcionesSingleton\AdopcionesSingleton\obj\Debug\AdopcionesSingleton.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2012\Projects\AdopcionesSingleton\AdopcionesSingleton\obj\Debug\AdopcionesSingleton.exe
+c:\users\alumno\documents\visual studio 2012\Projects\AdopcionesSingleton\AdopcionesSingleton\obj\Debug\AdopcionesSingleton.pdb
+D:\7mo CUATRIMESTRE\AdopcionesSingleton\AdopcionesSingleton\bin\Debug\AdopcionesSingleton.exe.config
+D:\7mo CUATRIMESTRE\AdopcionesSingleton\AdopcionesSingleton\bin\Debug\AdopcionesSingleton.exe
+D:\7mo CUATRIMESTRE\AdopcionesSingleton\AdopcionesSingleton\bin\Debug\AdopcionesSingleton.pdb
+D:\7mo CUATRIMESTRE\AdopcionesSingleton\AdopcionesSingleton\obj\Debug\AdopcionesSingleton.csprojAssemblyReference.cache
+D:\7mo CUATRIMESTRE\AdopcionesSingleton\AdopcionesSingleton\obj\Debug\AdopcionesSingleton.csproj.CoreCompileInputs.cache
+D:\7mo CUATRIMESTRE\AdopcionesSingleton\AdopcionesSingleton\obj\Debug\AdopcionesSingleton.exe
+D:\7mo CUATRIMESTRE\AdopcionesSingleton\AdopcionesSingleton\obj\Debug\AdopcionesSingleton.pdb
